@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Beattle",
-      "surnames": "Garcia",
+      "surnames": "Chus",
       "title": "dream catcher",
       "description": "information test 2",
       "avatar": {
@@ -17,9 +17,18 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [],
+    "interestingFacts": [],
+    "recommendations": []
+  },
+  "experience": {
+    "jobs": [],
+    "projects": [],
+    "publicArtifacts": []
   },
   "knowledge": {
     "languages": [
@@ -29,6 +38,18 @@
       {
         "name": "Spanish"
       }
-    ]
+    ],
+    "hardSkills": [],
+    "studies": []
+  },
+  "careerPreferences": {
+    "contact": {},
+    "preferences": {
+      "preferredCompetences": [],
+      "discardedCompetences": [],
+      "preferredRoles": [
+        ""
+      ]
+    }
   }
 }
