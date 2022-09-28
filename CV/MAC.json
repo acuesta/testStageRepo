@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,18 +17,9 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
-    },
-    "relevantLinks": [],
-    "interestingFacts": [],
-    "recommendations": []
-  },
-  "experience": {
-    "jobs": [],
-    "projects": [],
-    "publicArtifacts": []
+    }
   },
   "knowledge": {
     "languages": [
@@ -39,17 +30,13 @@
         "name": "Spanish"
       }
     ],
-    "hardSkills": [],
-    "studies": []
-  },
-  "careerPreferences": {
-    "contact": {},
-    "preferences": {
-      "preferredCompetences": [],
-      "discardedCompetences": [],
-      "preferredRoles": [
-        ""
-      ]
-    }
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      }
+    ]
   }
 }
