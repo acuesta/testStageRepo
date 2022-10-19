@@ -6,10 +6,10 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Beattle",
-      "surnames": "Chusa",
-      "title": "dream catcher",
-      "description": "information test 2",
+      "name": "Segismundo",
+      "surnames": "Estoqueesloqueyohago",
+      "title": "lead tapiporlas architect God level",
+      "description": "intro. for testing purposes prapos",
       "avatar": {
         "alt": "Bitelchus-en-construccion.jpeg",
         "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/5c6bccf1-b2c9-4723-b749-cd5c02b07852_bitelchus-en-constru.jpeg"
@@ -22,13 +22,35 @@
       }
     }
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "becario",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "Cosas de backend"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -42,9 +64,28 @@
   },
   "careerPreferences": {
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Ibatis",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "mongoose",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Administration"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
